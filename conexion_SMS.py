@@ -1,5 +1,5 @@
-#!/usr/bin/env python3 6b6c14d53a497be30f3f6d64bb56ad9a
-# -*- coding: utf-8 -*-
+#!/usr//env  python3 
+## -*- coding: utf-8 -*- 
 """
 Created on Tue May  7 16:16:55 2019
 
@@ -43,7 +43,7 @@ while noE<20:
 
 
 if(siE>0):
-    account_sid = 'AC9b5f06fd6e4b74559080bdc00b52afae'
+    account_sid = 'ACCOUNT_sid'
     auth_token = 'TOKEN'
     client = Client(account_sid, auth_token)
 
